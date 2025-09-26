@@ -39,8 +39,8 @@ This project demonstrates my ability to handle **data preparation, visualization
 ## 📂 Repository Structure
 
 - `Zomato Sales.xlsx` → Raw dataset   
-- `Zomato Sales Analytics.pbix` / `ZOMATO SALES DASHBOARD.pbix` → Interactive Power BI dashboards  
-- `Zomato-Sales-Analytics.pdf` → Final dashboard report (static)  
+-  `ZOMATO SALES DASHBOARD.pbix` → Interactive Power BI dashboards  
+- `Zomato-Sales-Analytics Dashboard.pdf` → Final dashboard report (static)  
 - `Screenshots/` → Dashboard preview images  
 
 ---
