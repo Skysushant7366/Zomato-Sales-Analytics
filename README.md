@@ -57,7 +57,7 @@ This project demonstrates my ability to handle **data preparation, visualization
 
 ## 📄 Access the Dashboard
 
-- 👉 [View Full Report](Zomato%20Sales%20Analytics.pdf)
+- 👉 [View Full Report](Zomato%20Sales%20Analytics%20Dashboard.pdf)
  
 - 📂 Download the `.pbix` file to explore interactively in Power BI  
 
