@@ -47,10 +47,10 @@ This project demonstrates my ability to handle **data preparation, visualization
 
 ## 📸 Dashboard Preview
 
-![Dashboard Overview](Screenshots/Zomato Dashboard.png)  
-![DeepDive Diagnostics](Screenshots/DeepDive Diagnostics.png)  
-![Narrative](Screenshots/Narrative Overview.png) 
-![Full Narrative](Screenshots/Full Detailed Narrative.png) 
+![Dashboard Overview](Screenshots/Zomato%20Dashboard.png)  
+![DeepDive Diagnostics](Screenshots/DeepDive%20Diagnostics.png)  
+![Narrative](Screenshots/Narrative%20Overview.png) 
+![Full Narrative](Screenshots/Full%20Detailed%20Narrative.png) 
 ![Recommendations](Screenshots/Recommendations.png) 
 
 ---
